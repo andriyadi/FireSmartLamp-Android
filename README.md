@@ -7,5 +7,9 @@ If you already deployed that Smart Lamp project, you should already have Firebas
 
 Then in `DeviceActivity.java` file, on line 50, change `[YOUR_OWN_FIREBASE_APP]` to your Firebase app name/project id retrieved above.
 
+If the app run successfully, you'll have something like this:
+
+![Screen](https://github.com/andriyadi/FireSmartLamp-Android/blob/master/ScreenCap.png)
+
 That's it. Enjoy.
 
