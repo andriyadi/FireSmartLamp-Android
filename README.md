@@ -1,6 +1,11 @@
 # FireSmartLamp-Android
 Android app for controlling a Smart Lamp. It's the Android client of this Smart Lamp project https://github.com/andriyadi/FireSmartLamp.
-Make sure to deploy that Smart Lamp project successfully first before using this app.
+Make sure that Smart Lamp project is deployed successfully first before running this app.
+
+It's not only for controlling. Telemetry data (e.g wattage) sent from the device is also displayed on the app in realtime. 
+Latest parameters (e.g switch on/off) are also synced between the app and device, so that you'll know whether the lamp is currently on or off. 
+And as the bonus, it's quite good-looking app :P
+
 
 ##Architecture
 This app leverages Firebase in order to control the smart lamp remotely via internet. By using Firebase as the backend, the smart lamp doesn't need to have IP public, it just needs to be connected to internet via router or 3G/4G modem.
