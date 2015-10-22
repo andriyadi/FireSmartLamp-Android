@@ -5,6 +5,8 @@ Make sure to deploy that Smart Lamp project successfully first before using this
 ##Architecture
 This app leverages Firebase in order to control the smart lamp remotely via internet. By using Firebase as the backend, the smart lamp doesn't need to have IP public, it just needs to be connected to internet via router or 3G/4G modem.
 
+![Architecture](https://github.com/andriyadi/FireSmartLamp-Android/blob/master/Architecture.jpg)
+
 
 ##Run the app
 If you already deployed that Smart Lamp project, you should already have Firebase app. Make note of Firebase app name (or project id).
