@@ -6,6 +6,8 @@ It's not only for controlling. Telemetry data (e.g wattage) sent from the device
 Latest parameters (e.g switch on/off) are also synced between the app and device, so that you'll know whether the lamp is currently on or off. 
 And as the bonus, it's quite good-looking app :P
 
+Make sure to take a look [this deck](http://www.slideshare.net/andri_yadi/firebase-54159652) for more stories behind this app.
+
 
 ##Architecture
 This app leverages Firebase in order to control the smart lamp remotely via internet. By using Firebase as the backend, the smart lamp doesn't need to have IP public, it just needs to be connected to internet via router or 3G/4G modem.
